@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Sahu</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Code" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-- 📫 How to reach me **sahurohit4219@gmail.com**
+- 📫 How to reach me *sahurohit4219@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tyl634c9KYrOXPzMgljkisHYjgJOunWh/view?usp=sharing](https://drive.google.com/file/d/1tyl634c9KYrOXPzMgljkisHYjgJOunWh/view?usp=sharing)
-
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tyl634c9KYrOXPzMgljkisHYjgJOunWh/view?usp=sharing">Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rohitraj_saha?igsh=djewbtbyy3non3lt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitraj_saha?igsh=djewbtbyy3non3lt" height="30" width="40" /></a>
