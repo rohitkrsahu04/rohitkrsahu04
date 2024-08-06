@@ -5,7 +5,7 @@
 - 📫 How to reach me  <a href="sahurohit4219@gmail.com">Email</a> <br/> <a href="9432963828">Phone</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tyl634c9KYrOXPzMgljkisHYjgJOunWh/view?usp=sharing">Resume</a>
-  - 📄 See my portfolio  <a href="https://rohitkrsahu04.github.io/PORTFOLIO/">My Portfolio</a>
+  - 📄 See my portfolio  <a href="https://rohitkrsahu04.github.io/-PORTFOLIO/">My Portfolio</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rohitraj_saha?igsh=djewbtbyy3non3lt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitraj_saha?igsh=djewbtbyy3non3lt" height="30" width="40" /></a>
