@@ -1,4 +1,4 @@
-![logo](https://github.com/rohitkrsahu04/rohitkrsahu04/blob/main/ROHIT%20KUMAR%20SAHU.png)
+
 <h1 align="center">Hi 👋, I'm Rohit Kumar Sahu</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Code" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
